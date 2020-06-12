@@ -10,7 +10,7 @@
       </h2>
       <div class="links">
         <a href="https://nuxtjs.org/" target="_blank" class="button--green">
-          Documentation
+          Documentation and a test text
         </a>
         <a
           href="https://github.com/nuxt/nuxt.js"
